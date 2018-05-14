@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetupESET", "SetupESET\SetupESET.csproj", "{0FDA5EE1-4255-4A83-B873-1436D4ED211C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FDA5EE1-4255-4A83-B873-1436D4ED211C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDA5EE1-4255-4A83-B873-1436D4ED211C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDA5EE1-4255-4A83-B873-1436D4ED211C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDA5EE1-4255-4A83-B873-1436D4ED211C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF4419D-2A24-49B3-9C40-F39DA4381E0B}
+	EndGlobalSection
+EndGlobal
